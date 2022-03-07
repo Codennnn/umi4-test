@@ -13,7 +13,7 @@
 .DS_Store
 
 # umi
-/src/.umi
+/src/.umi*
 /.env.local
 
 *.less.d.ts

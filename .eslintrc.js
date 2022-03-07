@@ -13,6 +13,7 @@ module.exports = {
     'jsx-a11y/no-static-element-interactions': 0,
     'jsx-a11y/click-events-have-key-events': 0,
     '@typescript-eslint/no-explicit-any': 0,
+    'tailwindcss/no-custom-classname': 1,
   },
   settings: {
     react: {

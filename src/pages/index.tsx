@@ -18,10 +18,7 @@ export default function HomePage() {
           <span className="mx-4">x</span>
           TailwindCss
         </h1>
-        <p
-          className="max-w-3xl mx-auto dark:text-slate-400
-mt-6 text-lg text-slate-600 text-center"
-        >
+        <p className="mx-auto mt-6 max-w-3xl text-lg text-center text-slate-600 dark:text-slate-400">
           This is an example using
           <a
             className="mx-2 text-cyan-500"
