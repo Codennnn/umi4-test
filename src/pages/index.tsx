@@ -10,10 +10,7 @@ export default function HomePage() {
           </div>
           <h1 className="text-center"></h1>
         </div>
-        <h1
-          className="text-slate-900 font-extrabold text-4xl sm:text-5xl lg:text-6xl
-        tracking-tight text-center dark:text-white"
-        >
+        <h1 className="text-4xl font-extrabold tracking-tight text-center text-slate-900 dark:text-white sm:text-5xl lg:text-6xl">
           UmiJS
           <span className="mx-4">x</span>
           TailwindCss
